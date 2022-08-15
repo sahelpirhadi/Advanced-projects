@@ -1,0 +1,5 @@
+esm=input("Esm:")
+sefat=input("sefat:")
+fel=input("Fel:")
+print("Dirooz yki az doostanam be name "+esm+" ra didam. be nazaram besyar "+sefat+" shode bod. az oo khastam mara dar "+fel+" komak konad.")
+print()
